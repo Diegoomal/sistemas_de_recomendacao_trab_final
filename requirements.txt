@@ -1,0 +1,4 @@
+seaborn
+nltk
+scikit-learn
+scikit-surprise
